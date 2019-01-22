@@ -1,0 +1,86 @@
+#header{
+   background: green;
+    height: 300px;
+}
+#info{
+    background-color: blue;
+    height: 620px;
+    
+}
+#polution{
+    background-color: green;
+    height: 330px;
+    
+}
+#subscribe{
+    background-color: aquamarine;
+    height: 350px;
+    
+}
+#footer{
+    background-color: yellow;
+    height: 50px;    
+}
+.wrapper{
+    width: 1200px;
+    margin: 0px auto;
+}
+.head-box{
+    height: 250px;   
+    background-color: red;
+}
+.info-box{
+    background-color: black;
+    height: 70px;
+}
+.info-box1{
+    background-color: aquamarine;
+    height: 150px;
+    border-radius:150px;
+}
+.info-box2{
+    background-color: aquamarine;
+    height: 70px
+}
+.info-box3{
+    background-color: aquamarine;
+    height: 150px;
+    border-radius:150px;
+}
+.info-box4{
+    background-color: aquamarine;
+    height: 70px;
+}
+.polution-box1{
+    background-color: black;
+    height: 90px;
+}
+.polution-box2{
+    background-color:blueviolet;
+    height: 60px;
+}
+.polution-box3{
+    background-color:burlywood;
+    height: 120px;
+}
+.subscribe-box1{
+    background-color:yellow;
+    height: 110px;
+}
+.subscribe-box2{
+    background-color:brown;
+    height: 130px;
+}
+.subscribe-box3{
+    background-color:purple;
+    height: 40px;
+}
+/* .foot-box1{
+    background-color:lightblue;
+    height: 10px;
+
+} */
+.foot-box{
+    background-color:turquoise;
+    height: 30px;
+}
